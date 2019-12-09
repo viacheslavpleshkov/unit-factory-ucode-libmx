@@ -5,7 +5,7 @@
     <a href="https://apply.ucode.world/" target="_blank">
         <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/ucode_logo.png?raw=true" height="100px">
     </a>
-    <h1 align="center">unit-factory-ucode-marathon-c</h1>
+    <h1 align="center">unit-factory-ucode-libmx</h1>
     <br>
 </p>
 <p align="center">📁 Create your own C library</p>
