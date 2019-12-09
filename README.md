@@ -87,7 +87,7 @@ Function name|Description|Grade|
 |```mx_isdigit```|Function which has the same behaviour as standard libc function ```isdigit``` .|100|
 |```mx_islower```|Function which has the same behaviour as standard libc function ```islower``` .|100|
 |```mx_tolower```|Function which has the same behaviour as standard libc function ```tolower``` .|100|
-|```mx_toupper```|Function which has the same behaviour as standard libc function   ```toupper|``` .|100|
+|```mx_toupper```|Function which has the same behaviour as standard libc function   ```toupper``` .|100|
 |```mx_multiple_number```|Function which will check whether natural number ```mult``` is a multiple of a number ```n``` .|100|
 |```mx_max```|Function which will find a maximum number.|100|
 |```mx_mid```|Function which will find middle number.|100|
