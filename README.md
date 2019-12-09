@@ -57,7 +57,7 @@ Function name|Description|Grade|
 |```mx_count_substr```|Function that counts number of occurrences of substring in a string.|100|
 |```mx_count_words```|Function which count words in the string. Word is a sequence of characters separated by delimiter.|100|
 |```mx_strnew```|Function that: • allocates memory for a string of a specific ```size``` and one additional byte for terminating ``` '\0' ```  • initializes each character with ``` '\0' ``` • string of a specific size and terminated by ``` '\0' ```  • ```NULL``` if the creation fails..|100|
-|```mx_is_space ```|Function which has the same behaviour as standard libc function ```isspace``` |.|100|
+|```mx_is_space ```|Function which has the same behaviour as standard libc function ```isspace``` .|100|
 |```mx_strtrim ```|Function which creates new string without whitespace characters at the beginning and the end of the string and frees all unused memory with ```free ```.|100|
 |```mx_del_extra_spaces ```|Function that creates new string without whitespace characters in the beginning and at the end of a string. It puts in the new string exactly one space character between words and frees all unused memory. Word is a sequence of characters separated by whitespaces.|100|
 |```mx_strsplit ```|Function that converts a string ```s``` to the NULL-terminated array of words and frees all unused memory.|100|
@@ -87,7 +87,7 @@ Function name|Description|Grade|
 |```mx_isdigit```|Function which has the same behaviour as standard libc function ```isdigit``` .|100|
 |```mx_islower```|Function which has the same behaviour as standard libc function ```islower``` .|100|
 |```mx_tolower```|Function which has the same behaviour as standard libc function ```tolower``` .|100|
-|```mx_toupper```|Function which has the same behaviour as standard libc function    |```toupper|``` .|100|
+|```mx_toupper```|Function which has the same behaviour as standard libc function   ```toupper|``` .|100|
 |```mx_multiple_number```|Function which will check whether natural number ```mult``` is a multiple of a number ```n``` .|100|
 |```mx_max```|Function which will find a maximum number.|100|
 |```mx_mid```|Function which will find middle number.|100|
