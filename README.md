@@ -24,7 +24,7 @@ Function name|Description|Grade|
 |```mx_printstr```|Prints string of characters on the standard output.|100|
 |```mx_printstr```|Prints string of characters on the standard output.|100|
 |```mx_print_strarr```|Print array of strings.|100|
-|```mx_printint```|Create a function that prints integer values on the standard output.|100|
+|```mx_printint```|Function that prints integer values on the standard output.|100|
 |```mx_pow```|Function that computes ```n``` raised to the power of zero or positive integer ```pow``` .|100|
 |```mx_sqrt```|Function that computes the non-negative square root of ```x``` . Function must compute square root in less than 2 seconds.|100|
 |```mx_nbr_to_hex```|Function that converts an unsigned long number into a hexadecimal.|100|
@@ -44,7 +44,7 @@ Function name|Description|Grade|
 |```mx_swap_char```|Function which will swap the characters of the string using pointers. Do nothing if ```s1``` or ```s2``` does not exist.|100|
 |```mx_str_reverse```|Function which reverses string using pointers. Do nothing if string does not exist.|100|
 |```mx_strdel```|Function that takes a pointer to string, then frees the string memory with ```free``` and sets string to ```NULL``` .|100|
-|```mx_del_strarr```|function that takes pointer to a NULL-terminated array of strings, deletes content of array, frees array memory with ```free``` and sets pointer to ```NULL``` .|100|
+|```mx_del_strarr```|Function that takes pointer to a NULL-terminated array of strings, deletes content of array, frees array memory with ```free``` and sets pointer to ```NULL``` .|100|
 |```mx_get_char_index```|Function that finds index of the first occurrence of character ```c``` in a string str. String is a sequence of characters excluding the trailing ``` \0 ``` character.|100|
 |```mx_strdup```|Function that has the same behaviour as standard libc function ```strdup``` .|100|
 |```mx_strndup```|Function that has the same behaviour as standard libc function ```strdup``` .|100|
@@ -100,6 +100,7 @@ Function name|Description|Grade|
 |```mx_pop_front```|Function that removes the first node of the linked list and frees allocated for the node memory.|100|
 |```mx_pop_back```|Function that removes the last node of the linked list and frees allocated for the node memory.|100|
 |```mx_list_size```|Function that calculates the number of nodes in the linked list.|100|
+|```mx_del_list```|Function removes the all node.|100|
 |```mx_sort_list```|Function that sorts the list’s contents in ascending order. Function ``` cmp ``` returns true if ```a ``` > ``` b``` and false in other cases.|100|
 <hr>
 

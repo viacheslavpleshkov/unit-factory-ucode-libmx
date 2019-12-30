@@ -53,4 +53,4 @@ uninstall: clean
 reinstall: uninstall install
 
 start: 
-	@(COMP) -std=c11 -Wall -Wextra -Werror -Wpedantic main.c libmx.a && ./a.out
+	clang -std=c11 -Wall -Wextra -Werror -Wpedantic main.c libmx.a && ./a.out
