@@ -2,7 +2,7 @@
     <a href="https://unitfactory.net/en/" target="_blank">
         <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/unit_logo.png?raw=true" height="100px">
     </a>
-    <a href="https://apply.ucode.world/" target="_blank">
+    <a href="https://ucode.world/en/" target="_blank">
         <img src="https://github.com/slava-pleshkov/unit-factory-ucode/blob/master/.git_images/ucode_logo.png?raw=true" height="100px">
     </a>
     <h1 align="center">unit-factory-ucode-libmx</h1>
@@ -10,9 +10,9 @@
 </p>
 <p align="center">📁 Create your own C library</p>
 
-## Used technologies
+## Got skills
 
-C, Makefile, File system, Memory, Terminal, Bash, Unix, CBL framework
+Critical Thinking, Problem Solving, Analysis, Reasoning & Argumentation, Creativity, Innovation Thinking, Agility & Adaptability, Responsibility, Self-Management, Communication, UNIX, Git, Procedural Programming, Algorithms, C
 
 <hr>
 
